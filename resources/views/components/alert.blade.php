@@ -19,7 +19,7 @@
             break;
         
         default:
-        $class = "text-gray-800 bg-gray-50 dark:bg-gray-800 dark:text-gray-400";
+            $class = "text-gray-800 bg-gray-50 dark:bg-gray-800 dark:text-gray-400";
             break;
     }
 @endphp
